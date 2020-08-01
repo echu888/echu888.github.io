@@ -4,10 +4,7 @@
 layout: default
 title: Home
 ---
-<h1>{{ page.title }}</h1>
-
-Helpful resources
--[Docker](/resources/docker.html)
--[golang](/resources/golang.html)
--[jekyll](/resources/jekyll.html)
-
+# Helpful resources
+- [Docker](/resources/docker.html)
+- [golang](/resources/golang.html)
+- [jekyll](/resources/jekyll.html)

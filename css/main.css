@@ -1,8 +1,14 @@
+:root {
+	--primary-color: #455363;
+	--background-color: #1f2935;
+	--text-color: #fff;
+}
+
 body {
 	margin: 60px auto;
 	width: 70%;
-	background: black;
-	color: white;
+	background-color: var(--background-color);
+	color: var(--text-color);
 }
 nav ul, footer ul {
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -24,6 +30,7 @@ a:hover {
 h1 {
 	font-size: 3em;
 	font-family:'Helvetica', 'Arial', 'Sans-Serif';
+	color: white;
 }
 p {
 	font-size: 1.5em;
@@ -33,6 +40,8 @@ p {
 footer {
 	border-top: 1px solid #d5d5d5;
 	font-size: .8em;
+	background-color: var(--primary-color);
+	color: var(--text-color);
 }
 
 ul.posts { 
