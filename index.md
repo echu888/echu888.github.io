@@ -4,7 +4,10 @@
 layout: default
 title: Home
 ---
-<div class="blurb">
-	<h1>Development Notes</h1>
-	<p>This is a place to organize things learned along the way, all things regarding software development.  </p>
-</div><!-- /.blurb -->
+<h1>{{ page.title }}</h1>
+
+Helpful resources
+-[Docker](/resources/docker.html)
+-[golang](/resources/golang.html)
+-[jekyll](/resources/jekyll.html)
+
