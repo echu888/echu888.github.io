@@ -1,7 +1,6 @@
 ---
 layout: page
 title: golang
-permalink: /golang/
 ---
 
 # Useful golang resources:
