@@ -18,16 +18,16 @@ email: eric.chu@digiserve.org
 description: >- # this means to ignore newlines until "baseurl:"
   I want to record the things that I learn or use regularly, and have a 
   convenient way to share and pass the knowledge on to others.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: larb_eric
-github_username:  echu888
+  #baseurl: "" # the subpath of your site, e.g. /blog
+  #url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  #twitter_username: larb_eric
+  #github_username:  echu888
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
+#theme: jekyll-theme-minimal
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
