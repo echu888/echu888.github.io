@@ -5,6 +5,7 @@ layout: default
 title: Home
 ---
 # Helpful resources
+- [C++](/resources/c++.html)
 - [Docker](/resources/docker.html)
 - [golang](/resources/golang.html)
 - [jekyll](/resources/jekyll.html)
